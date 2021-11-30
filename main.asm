@@ -1,11 +1,3 @@
-;
-; logic_ops.asm
-;
-; Created: 11/29/2021 10:06:09 PM
-; Author : ramya
-;
-
-
 init:
 	ldi r16, 0x00
 	out VPORTC_DIR, r16
